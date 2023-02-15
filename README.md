@@ -64,6 +64,14 @@ Aqui podemos encontrar todos los html que contienen la página web del proyecto.
 
 ---
 Tambien hay un esquema XML para validar la información que sacamos del registro de la aplicación.
+:warning::warning: Carpeta de FOL :warning::warning:
+---
+Aqui tenemos por una parte un organigrama con los trabajadores, una evaluación de riesgos de cada puesto y por último el protocolo
+de protección.
+---
+
+<sub>Ignacio Herrera, Iker Soto, Ekain Iraola y Iker Cao</sub>
+
 
 
 
