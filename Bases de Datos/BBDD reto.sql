@@ -6,10 +6,10 @@ nombre VARCHAR(14) NOT NULL,
 apellido  VARCHAR(14) NOT NULL,
 
 correo   VARCHAR(40) NOT NULL,
+    
+contrasena   VARCHAR(40) NOT NULL,
 
 telefono  integer NOT NULL,
-
-fechaNacimiento DATE NOT NULL,
 
 tipoUsuario ENUM ('administrador', 'cliente') NOT NULL
 );
@@ -29,9 +29,6 @@ descripcion  VARCHAR(100)  NULL,
 
 tipoHabitación ENUM ('HabitacionIndividual', 'HabitacionDoble', 'HabitacionDeluxe') NOT NULL
 
-fechaEntrada DATE NOT NULL,
-
-fechaSalida DATE NOT NULL
 
 );
 
